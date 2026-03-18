@@ -1,0 +1,15 @@
+bin/
+obj/
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.DotSettings.user
+
+# Secrets and config
+.env
+appsettings.*.json
+
+# Claude
+.claude/
